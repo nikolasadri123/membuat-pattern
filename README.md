@@ -1,0 +1,2 @@
+# membuat-pattern
+membuat pattern
